@@ -1,0 +1,24 @@
+{
+  "Version": "1.1",
+  "Product": "G6",
+  "Name": "Solo",
+  "Id": 1,
+  "SubId": 0,
+  "Order": 10,
+  "Settings": [
+    {
+      "Type": 0,
+      "GlobalPattern": false,
+      "Pattern": 3,
+      "ColorGroups": [
+        {
+          "ColorLayers": [
+            {
+              "Color": "#FFFF0000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

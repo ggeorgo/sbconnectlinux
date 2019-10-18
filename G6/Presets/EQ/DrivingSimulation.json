@@ -1,0 +1,104 @@
+{
+  "Version": "1.0.0.0",
+  "Product": "G6",
+  "Id": "DrivingSimulation",
+  "Name": "",
+  "Type": 0,
+  "Order": 190,
+  "Settings": [
+    {
+      "Type": "Speaker",
+      "Unit": "dB",
+      "PreAmp": 0.0,
+      "Bands": [
+        {
+          "Frequency": 31,
+          "Value": 0
+        },
+        {
+          "Frequency": 62,
+          "Value": 0
+        },
+        {
+          "Frequency": 125,
+          "Value": 0
+        },
+        {
+          "Frequency": 250,
+          "Value": 0
+        },
+        {
+          "Frequency": 500,
+          "Value": 0
+        },
+        {
+          "Frequency": 1000,
+          "Value": 0
+        },
+        {
+          "Frequency": 2000,
+          "Value": 0
+        },
+        {
+          "Frequency": 4000,
+          "Value": 0
+        },
+        {
+          "Frequency": 8000,
+          "Value": 0
+        },
+        {
+          "Frequency": 16000,
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Type": "Headphone",
+      "Unit": "dB",
+      "PreAmp": 0.0,
+      "Bands": [
+        {
+          "Frequency": 31,
+          "Value": 4
+        },
+        {
+          "Frequency": 62,
+          "Value": 4
+        },
+        {
+          "Frequency": 125,
+          "Value": 2
+        },
+        {
+          "Frequency": 250,
+          "Value": 2
+        },
+        {
+          "Frequency": 500,
+          "Value": -2
+        },
+        {
+          "Frequency": 1000,
+          "Value": -2
+        },
+        {
+          "Frequency": 2000,
+          "Value": 2
+        },
+        {
+          "Frequency": 4000,
+          "Value": 0
+        },
+        {
+          "Frequency": 8000,
+          "Value": 2
+        },
+        {
+          "Frequency": 16000,
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}

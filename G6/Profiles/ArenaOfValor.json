@@ -1,0 +1,147 @@
+{
+  "Version": "1.0.0.0",
+  "Type": 0,
+  "Id": "ArenaOfValor",
+  "Name": "",
+  "DescriptionShort": "",
+  "DescriptionLong": "",
+  "ImageSmall": "",
+  "ImageLarge": "",
+  "Product": "G6",
+  "CreatorName": "BlasterX Pro-Gaming Team",
+  "CreatorProfession": "",
+  "Order": 100,
+  "SpeakerMethod": 1,
+  "Settings": [
+    {
+      "Type": 0,
+      "SurroundMode": {
+        "Level": 0.50
+      },
+      "Crystalizer": {
+        "Enable": true,
+        "Level": 0.30
+      },
+      "Bass": {
+        "Enable": true,
+        "Level": 0.30,
+        "XOver": 80,
+        "SubWooferGain": false
+      },
+      "SVMMode": {
+        "Level": 0.30,
+        "PlusMode": 1
+      },
+      "DialogPlusMode": {
+        "Level": 0.00
+      },
+      "GraphicEQ2": {
+        "Enable": true,
+        "PreAmp": 0,
+        "PresetId": "ArenaOfValor"
+      },
+      "VoiceFx": {
+        "Enable": false,
+        "Settings": [
+          {
+            "Index": 0,
+            "Value": 400
+          },
+          {
+            "Index": 1,
+            "Value": 1400
+          },
+          {
+            "Index": 2,
+            "Value": 2000
+          },
+          {
+            "Index": 3,
+            "Value": 1
+          },
+          {
+            "Index": 4,
+            "Value": 1
+          },
+          {
+            "Index": 5,
+            "Value": 1
+          },
+          {
+            "Index": 6,
+            "Value": 0
+          },
+          {
+            "Index": 7,
+            "Value": 0
+          }
+        ]
+      }
+    },
+    {
+      "Type": 1,
+      "SurroundMode": {
+        "Level": 0.50
+      },
+      "Crystalizer": {
+        "Enable": true,
+        "Level": 0.30
+      },
+      "Bass": {
+        "Enable": true,
+        "Level": 0.30,
+        "XOver": 80,
+        "SubWooferGain": false
+      },
+      "SVMMode": {
+        "Level": 0.30,
+        "PlusMode": 1
+      },
+      "DialogPlusMode": {
+        "Level": 0.00
+      },
+      "GraphicEQ2": {
+        "Enable": false,
+        "PreAmp": 0,
+        "PresetId": "ArenaOfValor"
+      },
+      "VoiceFx": {
+        "Enable": false,
+        "Settings": [
+          {
+            "Index": 0,
+            "Value": 400
+          },
+          {
+            "Index": 1,
+            "Value": 1400
+          },
+          {
+            "Index": 2,
+            "Value": 2000
+          },
+          {
+            "Index": 3,
+            "Value": 1
+          },
+          {
+            "Index": 4,
+            "Value": 1
+          },
+          {
+            "Index": 5,
+            "Value": 1
+          },
+          {
+            "Index": 6,
+            "Value": 0
+          },
+          {
+            "Index": 7,
+            "Value": 0
+          }
+        ]
+      }
+    }
+  ]
+}

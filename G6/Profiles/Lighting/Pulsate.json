@@ -1,0 +1,25 @@
+{
+  "Version": "1.1",
+  "Product": "G6",
+  "Name": "Pulsate",
+  "Id": 2,
+  "SubId": 0,
+  "Order": 20,
+  "Settings": [
+    {
+      "Type": 0,
+      "GlobalPattern": false,
+      "Pattern": 5,
+      "Speed" :  30,
+      "ColorGroups": [
+        {
+          "ColorLayers": [
+            { "Color": "#FF0000FF" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

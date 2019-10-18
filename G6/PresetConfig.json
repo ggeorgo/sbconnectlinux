@@ -1,0 +1,1054 @@
+{
+  "Version": "1.0.0.0",
+  "VoiceFx": {
+    "Presets": [
+      {
+        "Id": "Neutral",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1
+              },
+              {
+                "Index": 4,
+                "Value": 1
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Male",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 0.6
+              },
+              {
+                "Index": 4,
+                "Value": 1.05
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Female",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2220
+              },
+              {
+                "Index": 3,
+                "Value": 2.37
+              },
+              {
+                "Index": 4,
+                "Value": 0.92
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Kid",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 3
+              },
+              {
+                "Index": 4,
+                "Value": 0.66
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Elderly",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 713
+              },
+              {
+                "Index": 1,
+                "Value": 1500
+              },
+              {
+                "Index": 2,
+                "Value": 1800
+              },
+              {
+                "Index": 3,
+                "Value": 1.4
+              },
+              {
+                "Index": 4,
+                "Value": 1.45
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0.1818
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "DeepVoice",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 339.5443
+              },
+              {
+                "Index": 1,
+                "Value": 1362.496
+              },
+              {
+                "Index": 2,
+                "Value": 2046
+              },
+              {
+                "Index": 3,
+                "Value": 0.4291186
+              },
+              {
+                "Index": 4,
+                "Value": 1.201318
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "FromUpNorth",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1
+              },
+              {
+                "Index": 4,
+                "Value": 1
+              },
+              {
+                "Index": 5,
+                "Value": -0.2066
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0.264461
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Unstable",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 2.37
+              },
+              {
+                "Index": 4,
+                "Value": 0.92
+              },
+              {
+                "Index": 5,
+                "Value": 2.5
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Emo",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1
+              },
+              {
+                "Index": 4,
+                "Value": 1
+              },
+              {
+                "Index": 5,
+                "Value": 0.2
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Elf",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 398
+              },
+              {
+                "Index": 1,
+                "Value": 1395
+              },
+              {
+                "Index": 2,
+                "Value": 2451
+              },
+              {
+                "Index": 3,
+                "Value": 1.11
+              },
+              {
+                "Index": 4,
+                "Value": 0.96
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Dwarf",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 294
+              },
+              {
+                "Index": 1,
+                "Value": 1527
+              },
+              {
+                "Index": 2,
+                "Value": 2055
+              },
+              {
+                "Index": 3,
+                "Value": 0.77
+              },
+              {
+                "Index": 4,
+                "Value": 0.97
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Demon",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 453
+              },
+              {
+                "Index": 1,
+                "Value": 1544
+              },
+              {
+                "Index": 2,
+                "Value": 2600
+              },
+              {
+                "Index": 3,
+                "Value": 0.69
+              },
+              {
+                "Index": 4,
+                "Value": 2
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Infiltrator",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 200
+              },
+              {
+                "Index": 1,
+                "Value": 1370
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1.24
+              },
+              {
+                "Index": 4,
+                "Value": 1.06
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0.13
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Brute",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 383
+              },
+              {
+                "Index": 1,
+                "Value": 1428
+              },
+              {
+                "Index": 2,
+                "Value": 2550
+              },
+              {
+                "Index": 3,
+                "Value": 0.65
+              },
+              {
+                "Index": 4,
+                "Value": 1.31138
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0.03
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Orc",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 468
+              },
+              {
+                "Index": 1,
+                "Value": 1321
+              },
+              {
+                "Index": 2,
+                "Value": 2200
+              },
+              {
+                "Index": 3,
+                "Value": 0.66
+              },
+              {
+                "Index": 4,
+                "Value": 1.5
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Marine",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 388
+              },
+              {
+                "Index": 1,
+                "Value": 1155
+              },
+              {
+                "Index": 2,
+                "Value": 1848
+              },
+              {
+                "Index": 3,
+                "Value": 0.8
+              },
+              {
+                "Index": 4,
+                "Value": 1.08
+              },
+              {
+                "Index": 5,
+                "Value": 0.54
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Chipmunk",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1
+              },
+              {
+                "Index": 4,
+                "Value": 0.601627
+              },
+              {
+                "Index": 5,
+                "Value": 1
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      },
+      {
+        "Id": "Robot",
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Bands": [
+              {
+                "Index": 0,
+                "Value": 400
+              },
+              {
+                "Index": 1,
+                "Value": 1400
+              },
+              {
+                "Index": 2,
+                "Value": 2000
+              },
+              {
+                "Index": 3,
+                "Value": 1.394
+              },
+              {
+                "Index": 4,
+                "Value": 1
+              },
+              {
+                "Index": 5,
+                "Value": -0.00824
+              },
+              {
+                "Index": 6,
+                "Value": 0
+              },
+              {
+                "Index": 7,
+                "Value": 0
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "Eax3": {
+    "Presets": [
+      {
+          "Id": "Neutral",
+          "Name": null,
+          "Type": 0,
+          "Settings": {
+            "Common": {
+              "Environment": 0,
+              "Size": 42.5,
+              "Diffustion": 0.21,
+              "Room": -1000,
+              "RoomHf": -2000,
+              "RoomLf": 0,
+              "DecayTime": 1.49,
+              "DecayHfRatio": 0.5,
+              "DecayLfRatio": 1.0,
+              "Reflections": -2466,
+              "ReflectionsDelay": 0.179,
+              "ReflectionsPan": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Reverb": -1926,
+              "ReverbDelay": 0.100,
+              "ReverbPan": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "EchoTime": 0.25,
+              "EchoDepth": 1.00,
+              "ModulationTime": 0.25,
+              "ModulationDepth": 0.0,
+              "AirAbsorption": -5,
+              "HfReference": 5000,
+              "LfReference": 250,
+              "RoomRolloff": 0.0,
+              "Flags": 63
+            }
+          }
+        },
+      {
+        "Id": "FPS",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 42.5,
+            "Diffustion": 0.21,
+            "Room": -1000,
+            "RoomHf": -2000,
+            "RoomLf": 0,
+            "DecayTime": 1.49,
+            "DecayHfRatio": 0.5,
+            "DecayLfRatio": 1.0,
+            "Reflections": -2466,
+            "ReflectionsDelay": 0.179,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": -1926,
+            "ReverbDelay": 0.100,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.25,
+            "EchoDepth": 1.00,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      },
+      {
+        "Id": "RPG",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 36.2,
+            "Diffustion": 1.00,
+            "Room": -1000,
+            "RoomHf": -698,
+            "RoomLf": 0,
+            "DecayTime": 7.24,
+            "DecayHfRatio": 0.22,
+            "DecayLfRatio": 1.0,
+            "Reflections": -1166,
+            "ReflectionsDelay": 0.020,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": 16,
+            "ReverbDelay": 0.030,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.25,
+            "EchoDepth": 0.00,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      },
+      {
+        "Id": "Racing",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 7.5,
+            "Diffustion": 0.3,
+            "Room": -1000,
+            "RoomHf": -270,
+            "RoomLf": 0,
+            "DecayTime": 1.49,
+            "DecayHfRatio": 0.86,
+            "DecayLfRatio": 1.0,
+            "Reflections": -1204,
+            "ReflectionsDelay": 0.007,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": -4,
+            "ReverbDelay": 0.011,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.125,
+            "EchoDepth": 0.95,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      },
+      {
+        "Id": "RecordingStudio",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 1.4,
+            "Diffustion": 1.0,
+            "Room": -1000,
+            "RoomHf": -6000,
+            "RoomLf": 0,
+            "DecayTime": 0.17,
+            "DecayHfRatio": 0.10,
+            "DecayLfRatio": 1.0,
+            "Reflections": -1204,
+            "ReflectionsDelay": 0.001,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": 207,
+            "ReverbDelay": 0.002,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.25,
+            "EchoDepth": 0.0,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      },
+      {
+        "Id": "Cinema",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 21.6,
+            "Diffustion": 1.00,
+            "Room": -1000,
+            "RoomHf": -476,
+            "RoomLf": 0,
+            "DecayTime": 4.32,
+            "DecayHfRatio": 0.37,
+            "DecayLfRatio": 1.0,
+            "Reflections": -789,
+            "ReflectionsDelay": 0.020,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": -289,
+            "ReverbDelay": 0.030,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.250,
+            "EchoDepth": 0.00,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      },
+      {
+        "Id": "GrandHall",
+        "Name": null,
+        "Type": 0,
+        "Settings": {
+          "Common": {
+            "Environment": 0,
+            "Size": 19.6,
+            "Diffustion": 1.0,
+            "Room": -1000,
+            "RoomHf": -500,
+            "RoomLf": 0,
+            "DecayTime": 3.92,
+            "DecayHfRatio": 1.1,
+            "DecayLfRatio": 1.0,
+            "Reflections": -1230,
+            "ReflectionsDelay": 0.020,
+            "ReflectionsPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Reverb": -2,
+            "ReverbDelay": 0.029,
+            "ReverbPan": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EchoTime": 0.25,
+            "EchoDepth": 0.0,
+            "ModulationTime": 0.25,
+            "ModulationDepth": 0.0,
+            "AirAbsorption": -5,
+            "HfReference": 5000,
+            "LfReference": 250,
+            "RoomRolloff": 0.0,
+            "Flags": 63
+          }
+        }
+      }
+    ]
+    }
+}

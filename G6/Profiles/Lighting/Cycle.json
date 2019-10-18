@@ -1,0 +1,18 @@
+{
+  "Version": "1.1",
+  "Product": "G6",
+  "Name": "Cycle",
+  "Id": 4,
+  "SubId": 0,
+  "Order": 40,
+  "Settings": [
+    {
+      "Type": 0,
+      "GlobalPattern": false,
+      "Pattern": 1,
+      "Speed": 30
+    }
+  ]
+}
+
+
